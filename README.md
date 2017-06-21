@@ -1,3 +1,3 @@
-:::include include.md
+::include include.md
 
 # markdown_sample
